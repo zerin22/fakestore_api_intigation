@@ -73,7 +73,7 @@ header .shopping span{
     left: calc(100% - 500px);
 }
 .active .container{
-   transform: translateX(-200px);
+   /* transform: translateX(-200px); */
 }
 .card h1{
     color: #E8BC0E;
